@@ -38,9 +38,11 @@ pip install pycryptodome
 
 在開始之前，請確保你已安裝 `pycryptodome` 套件。你可以使用以下指令來安裝：
 
+
 ```bash
 pip install pycryptodome
 
+```
 # Experiment Lab
 
 This experiment lab contains code for basic encryption, digital signing, and Diffie-Hellman key exchange based on concepts from the paper "New Directions in Cryptography".
