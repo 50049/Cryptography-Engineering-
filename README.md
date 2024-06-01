@@ -44,24 +44,4 @@ pip install pycryptodome
 ```bash
 pip install pycryptodome
 
-```
-# Experiment Lab
 
-This experiment lab contains code for basic encryption, digital signing, and Diffie-Hellman key exchange based on concepts from the paper "New Directions in Cryptography".
-
-## Directory Structure
-
-- `encryption.py`: Contains functions for encryption, decryption, signing, verification, and Diffie-Hellman key exchange.
-- `main.py`: Demonstrates how to use these functions and measures execution time for each step.
-- `README.md`: This documentation file.
-
-## Dependencies
-
-- `pycryptodome`: Used for implementing encryption and decryption functions.
-
-## Installation
-
-Before starting, make sure you have installed the `pycryptodome` package. You can install it using the following command:
-
-```bash
-pip install pycryptodome
